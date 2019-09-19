@@ -1,4 +1,4 @@
-# Android App Architecture Template
+# Android App Architecture Template(no longer maintain)
 
 ## 1 download
 

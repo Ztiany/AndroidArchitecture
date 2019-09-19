@@ -5,9 +5,14 @@
 ```shell
 # base
 git clone git@github.com:Ztiany/Android-Libs.git
+cd Android-Libs
+git checkout -b master origin/master
+cd ..
 
 # project
 git clone git@github.com:Ztiany/AndroidArchitecture.git
+cd AndroidArchitecture
+git checkout -b master origin/master
 ```
 
 ## 2 explanation
